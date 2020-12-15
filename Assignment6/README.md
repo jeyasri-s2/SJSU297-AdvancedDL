@@ -1,6 +1,8 @@
-## This assignment has the *extra credit work* including all MLOps implementation
+## This assignment has including all MLOps implementation
 
 1. mnist
+
+## Extra credit work
 2. cifar10
 3. imdb
 4. iris
